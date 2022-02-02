@@ -1,0 +1,33 @@
+*{
+    background-color: bisque;
+    align-items: center;
+    padding: 0px;
+    margin: 15px;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    background: rgb(77, 77, 226);
+}
+
+img{
+   width: 70%;
+   
+}
+ 
+
+center{
+    align-items: center;
+}
+
+h6{
+    color: darkred;
+}
+
+
+ barra{
+     width: 2px;
+ }
+
+
